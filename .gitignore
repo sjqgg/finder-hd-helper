@@ -1,0 +1,10 @@
+.DS_Store
+.AppleDouble/
+.build.noindex/
+module-cache/
+*.app/
+*.zip
+*.dmg
+*.log
+.env
+.env.*
